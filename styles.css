@@ -1,0 +1,9 @@
+body{
+	background-color: purple;
+}
+table, tr, td {
+	alignment: center;
+	text-align: center;
+	border: solid 2px;
+	font-size: large;
+}
